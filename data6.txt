@@ -1,0 +1,14 @@
+S A 18
+S B 13
+A C 20
+B C 14
+C D 3
+C F 20
+C E 7
+D E 8
+F E 5
+E G 14
+G H 3
+E H 7
+E T 15
+H T 8
